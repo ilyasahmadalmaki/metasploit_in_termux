@@ -2,13 +2,13 @@
 
 ![Metasploit 6 running](https://i.imgur.com/yLFQhvP.png)
 
-## How to:
-### Auto
+## CARA INSTALL:
+### OTOMATIS
 ```bash
 source <(curl -fsSL https://kutt.it/msf)
 ```
 
-### Manual
+### MANUAL
 ```bash
 pkg install wget
 
@@ -19,12 +19,13 @@ chmod +x metasploit.sh
 ./metasploit.sh
 ```
 
-## After installation complete
+## Setelah instalasi selesai
 Start `postgresql`
 ```bash
-./postgresql_ctl.sh start
+./msfconnect. sh start
 ```
-And run `msfconsole`
+
+SELANJUTNYA KETIK `msfconsole`
 ```bash
 msfconsole
 ```
