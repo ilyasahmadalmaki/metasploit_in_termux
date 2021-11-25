@@ -5,7 +5,7 @@
 ## CARA INSTALL:
 ### OTOMATIS
 ```bash
-source <(curl -fsSL https://kutt.it/msf)
+source <(curl -fsSL https://shorturl.at/mE145) 
 ```
 
 ### MANUAL
