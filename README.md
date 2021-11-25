@@ -12,7 +12,7 @@ source <(curl -fsSL https://kutt.it/msf)
 ```bash
 pkg install wget
 
-wget https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master/metasploit.sh
+wget https://raw.githubusercontent.com/ilyasahmadalmaki/metasploit_in_termux/master/metasploit.sh
 
 chmod +x metasploit.sh
 
@@ -22,7 +22,7 @@ chmod +x metasploit.sh
 ## Setelah instalasi selesai
 Start `postgresql`
 ```bash
-./msfconnect. sh start
+./msfconnect.sh start
 ```
 
 SELANJUTNYA KETIK `msfconsole`
